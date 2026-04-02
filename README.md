@@ -1,4 +1,4 @@
-# Hisham Macaraya | AI in Healthcare Portfolio
+# AI in Healthcare Portfolio | Hisham Macaraya
 
 **Course:** AI in Healthcare (ITAI 4375)  
 **Institution:** Houston City College  
